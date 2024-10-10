@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm AK 👋
 
 - 📖 CS grad student at Northeastern
 - 🌱 I’m currently intrigued by math behind Machine Learning and am exploring that
