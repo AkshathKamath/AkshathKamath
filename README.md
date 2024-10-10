@@ -4,7 +4,7 @@
 - 🌱 I’m currently intrigued by math behind Machine Learning and am exploring that
 - 💻 I like to build solutions to real world problems using tech
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Email me](akshathkamathwork@gmail.com) or [Twitter DMs](https://x.com/AkshathKWork)!
+- 📫 How to reach me: [Email me](akshathkamathwork@gmail.com) or [Twitter](https://x.com/AkshathKWork)!
 
 <!--
 **AkshathKamath/AkshathKamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
