@@ -1,7 +1,7 @@
 # Hi there, I'm AK 👋
 
-- 📖 CS grad student at Northeastern
-- 🌱 I’m currently intrigued by math behind Machine Learning and am exploring that
+- 📖 Grad student at Northeastern
+- 🌱 I’m currently intrigued by intuition behind Machine Learning and am exploring that
 - 💻 I like to build solutions to real world problems using tech
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](akshathkamathwork@gmail.com) or [Twitter](https://x.com/AkshathKWork)!
