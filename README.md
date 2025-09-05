@@ -1,9 +1,7 @@
-# Hi there, I'm AK 👋
-
-- 📖 Grad student at Northeastern
-- 🌱 I’m currently intrigued by intuition behind Machine Learning and am exploring that
+# Hi there, I'm Akshath Kamath 👋
+- 📖 Data Science Grad student at Northeastern (Khoury College of Computer Science)
+- 🔍 Currently looking for Spring 2026 Co-ops and full-time roles starting Summer 2026 in Software Engineering and Machine Learning
 - 💻 I like to build solutions to real world problems using tech
-- 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](akshathkamathwork@gmail.com) or [Twitter](https://x.com/AkshathKWork)!
 
 <!--
